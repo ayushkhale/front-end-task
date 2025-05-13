@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from './Sections/Header'
 import { IoPersonOutline, IoBriefcaseOutline, IoPrismOutline, IoCheckmarkCircle, IoCheckmarkCircleOutline, IoCheckboxOutline } from 'react-icons/io5';
 
 import logo from './assets/img/logo.jpg';
